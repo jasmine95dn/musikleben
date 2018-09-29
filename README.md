@@ -1,2 +1,2 @@
 # musikleben
-Verschiedene Analyse zum Datensatz MusiXplora (2018)
+Verschiedene Analysen zum Datensatz MusiXplora (2018)
