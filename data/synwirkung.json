@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'mim'
+// mim.synwirkung
+
+[{"C": "1.","F32X": "Geburtsort"}, {"C": "1.1.","F32X": "Taufort"}, {"C": "3.","F32X": "Wirkungsort"}, {"C": "3.1.","F32X": "Hauptwirkungsort"}, {"C": "5.","F32X": "Auftrittsort"}, {"C": "9.","F32X": "Sterbeort"}, {"C": "9.1.","F32X": "Begräbnisort"}, {"C": "4.","F32X": "Standort"}, {"C": "4.1.","F32X": "Hauptstandort"}, {"C": "2.","F32X": "Entstehungsort"}, {"C": "2.1.","F32X": "Verlagsort"}, {"C": "2.2.","F32X": "Handelsplatz"}, {"C": "8.","F32X": "Verlustort"}]

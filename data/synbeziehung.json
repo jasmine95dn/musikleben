@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'mim'
+// mim.synbeziehung
+
+[{"R": 1,"Beziehung": "Herkunftsfamilie","-2": "Großeltern","-1": "Eltern","0": "Geschwister","1": "Kinder","2": "Enkel"}, {"R": 2,"Beziehung": "Verwandtschaft","-2": "Großonkel und Großtanten","-1": "Onkel und Tanten","0": "Cousins und Cousinen","1": "Neffen und Nichten","2": "Großneffen und Großnichten"}, {"R": 3,"Beziehung": "Partnerschaft","-2": "","-1": "","0": "Partner","1": "","2": ""}, {"R": 4,"Beziehung": "Schwägerschaft","-2": "","-1": "Schwiegereltern","0": "Schwager und Schwägerinnen","1": "Schwiegerkinder","2": ""}, {"R": 5,"Beziehung": "Patenschaft","-2": "","-1": "Paten","0": "","1": "Patenkinder","2": ""}, {"R": 6,"Beziehung": "Ausbildung","-2": "","-1": "Lehrer","0": "Kommilitonen","1": "Schüler","2": ""}, {"R": 7,"Beziehung": "Arbeitsumfeld","-2": "Arbeitgeber","-1": "Vorgänger","0": "Kollegen","1": "Nachfolger","2": "Arbeitnehmer"}, {"R": 8,"Beziehung": "Persönlicher Umkreis","-2": "","-1": "Förderer","0": "Netzwerk","1": "Günstlinge","2": ""}, {"R": 9,"Beziehung": "Widmungen","-2": "","-1": "Widmungsgeber","0": "","1": "Widmungsempfänger","2": ""}, {"R": 21,"Beziehung": "","-2": "","-1": "","0": "Nachlässe der BSB","1": "BR-Symphonie-Orchester","2": "Jüdischer Kulturbund"}, {"R": 22,"Beziehung": "","-2": "","-1": "","0": "Städtischer Musikpreis","1": "Collegium Georgianum","2": "Collegium musicum"}, {"R": 23,"Beziehung": "","-2": "","-1": "","0": "Lehrkräfte der Musikpädagogik","1": "Lehrkräfte der Musikwissenschaft","2": "Promotionen der Musikwissenschaft"}, {"R": 11,"Beziehung": "Handelsbeziehungen","-2": "Produzenten","-1": "Anbieter","0": "Tauschpartner","1": "Käufer","2": "Rezipienten"}, {"R": 12,"Beziehung": "Werkreferenzen","-2": "Modelle","-1": "Vorlagen","0": "Ähnlichkeiten","1": "Zitate","2": "Kopien"}]

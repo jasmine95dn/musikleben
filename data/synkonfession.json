@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'mim'
+// mim.synkonfession
+
+[{"C": "","F23": "xx","F23X": "konfessionsangehörig","F23Y": "Bekenner","F23YW": "Bekennerin"}, {"C": "1.","F23": "ob","F23X": "ohne Bekenntnis","F23Y": "Atheist","F23YW": "Atheistin"}, {"C": "2.","F23": "ju","F23X": "jüdisch","F23Y": "Jude","F23YW": "Jüdin"}, {"C": "3.","F23": "ms","F23X": "mit sonstigem Bekenntnis","F23Y": "Sonstiger","F23YW": "Sonstige"}, {"C": "4.","F23": "or","F23X": "orthodox","F23Y": "Orthodoxer","F23YW": "Orthodoxe"}, {"C": "5.","F23": "ka","F23X": "katholisch","F23Y": "Katholik","F23YW": "Katholikin"}, {"C": "5.1.","F23": "ak","F23X": "altkatholisch","F23Y": "Altkatholik","F23YW": "Altkatholikin"}, {"C": "5.2.","F23": "rk","F23X": "römisch-katholisch","F23Y": "Katholik","F23YW": "Katholikin"}, {"C": "6.","F23": "pr","F23X": "protestantisch","F23Y": "Protestant","F23YW": "Protestantin"}, {"C": "6.1.","F23": "ev","F23X": "evangelisch-lutherisch","F23Y": "Lutheraner","F23YW": "Lutheranerin"}, {"C": "6.3.","F23": "re","F23X": "calvinistisch-reformiert","F23Y": "Reformierter","F23YW": "Reformierte"}, {"C": "6.4.","F23": "an","F23X": "anglikanisch","F23Y": "Anglikaner","F23YW": "Anglikanerin"}, {"C": "6.6.","F23": "ba","F23X": "baptistisch","F23Y": "Baptist","F23YW": "Baptistin"}, {"C": "7.","F23": "mu","F23X": "muslimisch","F23Y": "Muslim","F23YW": "Muslima"}]
