@@ -6,3 +6,5 @@ Programm zur verschiedenen Analysen des Datensatzes MusiXplora (2018) einschlie�
 <br/>**notebooks** - Code für interaktive Karten und deskriptive Statistik
 <br/>**graphs** - alle bisherigen Graphen von verschiedenen Netzwerken für Interessanter.
 
+<br/>**Statistik_Totals.xls** - Deskriptive Statistiken aller extrahierten Attribute des Datensatzes
+
