@@ -4,5 +4,5 @@ Programm zur verschiedenen Analysen des Datensatzes MusiXplora (2018) einschlie�
 # Dateien und Ordner
 **data** -  Eingabesdaten: der Datensatz MusiXplora (2004-2018)
 <br/>**notebooks** - Code für interaktive Karten und deskriptive Statistik
-<br/>**graphss** - alle bisherigen Graphen von verschiedenen Netzwerken für Interessanter.
+<br/>**graphs** - alle bisherigen Graphen von verschiedenen Netzwerken für Interessanter.
 
