@@ -8,3 +8,5 @@ Verschiedene Analysen einer Teilmenge des Datensatzes MusiXplora (2018) einschli
 
 <br/>**Statistik_Totals.xls** - Deskriptive Statistiken aller extrahierten Attribute des Datensatzes
 
+<br/> Zum Blog des Seminars: https://heidelbergcomputationalliterarystudiesss2018.wordpress.com/seminarprojekte/musiklebenwip/
+
