@@ -3,8 +3,8 @@ Verschiedene Analysen einer Teilmenge des Datensatzes MusiXplora (2018) einschli
 
 # Dateien und Ordner
 **data** -  Eingabedaten: der Datensatz MusiXplora (2004-2018)
-<br/>**notebooks** - Code für interaktive Karten und deskriptive Statistiken
-<br/>**graphs** - alle bisherigen Graphen von verschiedenen Netzwerken für Interessierte.
+<br/>**notebooks** - Python-Skript für interaktive Karten und deskriptive Statistiken in Jupyter Notebook
+<br/>**graphs** - alle bisherigen Graphen von verschiedenen Netzwerken für Interessierte, erstellt im Zeitraum 08-09.2018 via Gephi
 
 <br/>**Statistik_Totals.xls** - Deskriptive Statistiken aller extrahierten Attribute des Datensatzes
 
